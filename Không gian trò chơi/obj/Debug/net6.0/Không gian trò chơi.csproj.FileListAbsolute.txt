@@ -1,0 +1,15 @@
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\bin\Debug\net6.0\Không gian trò chơi.exe
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\bin\Debug\net6.0\Không gian trò chơi.deps.json
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\bin\Debug\net6.0\Không gian trò chơi.runtimeconfig.json
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\bin\Debug\net6.0\Không gian trò chơi.dll
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\bin\Debug\net6.0\Không gian trò chơi.pdb
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\obj\Debug\net6.0\Không gian trò chơi.csproj.AssemblyReference.cache
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\obj\Debug\net6.0\Không gian trò chơi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\obj\Debug\net6.0\Không gian trò chơi.AssemblyInfoInputs.cache
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\obj\Debug\net6.0\Không gian trò chơi.AssemblyInfo.cs
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\obj\Debug\net6.0\Không gian trò chơi.csproj.CoreCompileInputs.cache
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\obj\Debug\net6.0\Không gian trò chơi.dll
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\obj\Debug\net6.0\refint\Không gian trò chơi.dll
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\obj\Debug\net6.0\Không gian trò chơi.pdb
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\obj\Debug\net6.0\Không gian trò chơi.genruntimeconfig.cache
+C:\Users\hadan\source\repos\Không gian trò chơi\Không gian trò chơi\obj\Debug\net6.0\ref\Không gian trò chơi.dll

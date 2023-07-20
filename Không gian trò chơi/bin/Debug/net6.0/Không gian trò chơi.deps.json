@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Không gian trò chơi/1.0.0": {
+        "runtime": {
+          "Không gian trò chơi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Không gian trò chơi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
